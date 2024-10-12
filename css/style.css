@@ -1236,6 +1236,29 @@ footer a:hover{
 		font-size: 12px;
 	}
 }
+/* Size of Android */
+@media (max-width: 405px){
+	/* Maximum Width Navigation Bar */
+	.max-width{
+		padding-left: 20px;
+		padding-right: 20px;
+	}	
+	/* Scroll Back To Top Button */
+	#myBtn{
+		margin-bottom: 60px;
+	}
+	/* Navigation Bar */
+	.navbar .menu{
+		padding-left: 10px;
+	} 	
+	/* About Section */
+	.about .left img{
+		margin-left: 80px;
+	}
+	.about .right p{
+		line-height: 18px;
+	}
+}
 /* Small Phones: 320px – 480px wide (e.g., iPhone SE) */
 @media (max-width: 335px){
 	/* Maximum Width Navigation Bar */
