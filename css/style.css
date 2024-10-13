@@ -1237,7 +1237,7 @@ footer a:hover{
 	}
 }
 /* Size of Android */
-@media (max-width: 360px){
+@media (max-width: 340px){
 	/* Maximum Width Navigation Bar */
 	.max-width{
 		padding-left: 20px;
