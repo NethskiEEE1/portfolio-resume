@@ -1253,14 +1253,14 @@ footer a:hover{
 	} 
 	/* Home Section */
 	.home .home-content .text{
-		font-size: 20px;
+		font-size: 22px;
 	}
 	.home .home-content span{
-		font-size: 20px;
+		font-size: 22px;
 	}
 	/* About Section */
 	.about{
-		height: 120vh;
+		height: 110vh;
 	}
 	.about .left img{
 		margin-left: 80px;
