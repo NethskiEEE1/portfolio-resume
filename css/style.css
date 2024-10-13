@@ -1250,16 +1250,23 @@ footer a:hover{
 	/* Navigation Bar */
 	.navbar .menu{
 		padding-left: 10px;
-	} 	
+	} 
+	/* Home Section */
+	.home .home-content .text{
+		font-size: 16px;
+	}
+	.home .home-content span{
+		font-size: 18px;
+	}
 	/* About Section */
 	.about{
-		height: 120vh;
+		height: 100vh;
 	}
 	.about .left img{
 		margin-left: 80px;
 	}
 	.about .right p{
-		line-height: 15px;
+		line-height: 10px;
 	}
 	/* About Section */
 	.services{
