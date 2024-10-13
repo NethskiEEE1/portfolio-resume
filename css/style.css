@@ -1261,6 +1261,9 @@ footer a:hover{
 	.about .right p{
 		line-height: 18px;
 	}
+	.services{
+		height: 250vh;
+	}
 }
 /* Small Phones: 320px – 480px wide (e.g., iPhone SE) */
 @media (max-width: 335px){
