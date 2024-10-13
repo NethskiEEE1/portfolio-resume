@@ -1261,8 +1261,17 @@ footer a:hover{
 	.about .right p{
 		line-height: 18px;
 	}
+	/* Services Section */
 	.services{
-		height: 250vh;
+		height: 350vh;
+	}
+	/* Skills Section */
+	.skills{
+		height: 120vh;
+	}
+	/* Contact Section */
+	.contact{
+		height: 120vh;
 	}
 }
 /* Small Phones: 320px – 480px wide (e.g., iPhone SE) */
