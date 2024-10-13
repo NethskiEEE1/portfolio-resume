@@ -1157,6 +1157,9 @@ footer a:hover{
 		font-size: 40px;
 	}
 	/* About Section */
+	.about{
+		height: 150vh;
+	}
 	.about .left img{
 		margin-left: 90px;
 	}
