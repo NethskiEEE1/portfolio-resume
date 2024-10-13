@@ -1279,6 +1279,12 @@ footer a:hover{
 		height: 160vh;
 	}
 }
+/* Messenger Open */
+@media (max-width: 360px){
+	.about{
+		height: 150vh;
+	}
+}
 /* Small Phones: 320px – 480px wide (e.g., iPhone SE) */
 @media (max-width: 335px){
 	/* Maximum Width Navigation Bar */
