@@ -1271,21 +1271,17 @@ footer a:hover{
 	.about .right p{
 		line-height: 16px;
 	}
-	/* About Section */
+	/* Services Section */
 	.services{
 		height: 340vh;
 	}
+	/* Skills Section */
 	.skills{
 		height: 120vh;
 	}
+	/* Contact Section */
 	.contact{
 		height: 160vh;
-	}
-}
-/* Messenger Open */
-@media (max-width: 360px){
-	.about{
-		height: 180vh;
 	}
 }
 /* Small Phones: 320px – 480px wide (e.g., iPhone SE) */
