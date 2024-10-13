@@ -1252,26 +1252,11 @@ footer a:hover{
 		padding-left: 10px;
 	} 	
 	/* About Section */
-	.about{
-		height: 120vh;
-	}
 	.about .left img{
 		margin-left: 80px;
 	}
 	.about .right p{
 		line-height: 18px;
-	}
-	/* Services Section */
-	.services{
-		height: 350vh;
-	}
-	/* Skills Section */
-	.skills{
-		height: 120vh;
-	}
-	/* Contact Section */
-	.contact{
-		height: 120vh;
 	}
 }
 /* Small Phones: 320px – 480px wide (e.g., iPhone SE) */
