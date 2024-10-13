@@ -1263,13 +1263,13 @@ footer a:hover{
 	}
 	/* About Section */
 	.services{
-		height: 400vh;
+		height: 350vh;
 	}
 	.skills{
-		height: 200vh;
+		height: 150vh;
 	}
 	.contact{
-		height: 200vh;
+		height: 150vh;
 	}
 }
 /* Small Phones: 320px – 480px wide (e.g., iPhone SE) */
