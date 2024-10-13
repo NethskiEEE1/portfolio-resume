@@ -1265,6 +1265,12 @@ footer a:hover{
 	.services{
 		height: 330vh;
 	}
+	.skills{
+		height: 100vh;
+	}
+	.contact{
+		height: 100vh;
+	}
 }
 /* Small Phones: 320px – 480px wide (e.g., iPhone SE) */
 @media (max-width: 335px){
