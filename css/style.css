@@ -952,7 +952,7 @@ footer a:hover{
 			transform: rotateY(0);
 		}	
 		1%{
-			transform: rotateY(90deg);
+			transform: rotateY(45deg);
 		}	
 	}
 	.services .services-content .card{
