@@ -905,10 +905,10 @@ footer a:hover{
 		margin: 15px;
 		font-size: 25px;
 		font-weight: 600;
-		line-height: 9px;
+		line-height: 10px;
 	} 
 	.navbar .menu li a::after{
-		margin-top: 5px;
+		margin-top: 7px;
 	}
 }
 /* Landscape Mode: 768px – 1024px wide (e.g., iPad, Galaxy Tab) */
