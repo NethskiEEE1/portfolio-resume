@@ -1263,13 +1263,13 @@ footer a:hover{
 	}
 	/* About Section */
 	.about{
-		height: 110vh;
+		height: 120vh;
 	}
 	.about .left img{
 		margin-left: 80px;
 	}
 	.about .right p{
-		line-height: 16px;
+		line-height: 18px;
 	}
 	/* Services Section */
 	.services{
