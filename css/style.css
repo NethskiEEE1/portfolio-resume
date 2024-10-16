@@ -907,6 +907,9 @@ footer a:hover{
 		font-weight: 600;
 		line-height: 15px;
 	} 
+	.navbar .menu li a::after{
+		margin-top: 5px;
+	}
 }
 /* Landscape Mode: 768px – 1024px wide (e.g., iPad, Galaxy Tab) */
 @media (max-width:	768px){
