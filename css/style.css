@@ -218,10 +218,10 @@ section{
 	width: 20%;
 }
 .about .about-content img{
-	height: 350px;
-	width: 350px;
+	height: 300px;
+	width: 300px;
 	object-fit: cover;
-	border-radius: 20px;
+	border-radius: 100px;
 	border: 3px solid black;	
 }
 .about .about-content .right{
