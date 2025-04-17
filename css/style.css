@@ -218,8 +218,8 @@ section{
 	width: 20%;
 }
 .about .about-content img{
-	height: 320px;
-	width: 320px;
+	height: 350px;
+	width: 350px;
 	object-fit: cover;
 	border-radius: 20px;
 	border: 3px solid black;	
