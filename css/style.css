@@ -221,7 +221,7 @@ section{
 	height: 300px;
 	width: 300px;
 	object-fit: cover;
-	border-radius: 100px;
+	border-radius: 20px;
 	border: 3px solid black;	
 }
 .about .about-content .right{
